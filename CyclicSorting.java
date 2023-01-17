@@ -29,3 +29,13 @@ public class CyclicSorting {
         arr[second] = temp;
     }
 }
+
+/*
+
+Output:
+
+[5, 7, 3, 6, 2, 1, 4]
+The Sorted Array is:
+[1, 2, 3, 4, 5, 6, 7]
+
+ */
