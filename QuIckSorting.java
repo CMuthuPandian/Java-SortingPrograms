@@ -39,3 +39,13 @@ public class QuIckSorting {
     }
 
 }
+
+/*
+
+Output:
+
+[18, 7, 0, 3, 10, -1, 12]
+The Sorted Array is:
+[-1, 0, 3, 7, 10, 12, 18]
+
+ */
