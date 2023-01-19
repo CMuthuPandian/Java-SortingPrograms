@@ -6,7 +6,6 @@ public class QuIckSorting {
         quickSort(arr, 0, arr.length - 1);
         System.out.println(Arrays.toString(arr));
     }
-
     static void quickSort(int[] nums, int low, int high) {
         if (low < high) {
             int s = low;
