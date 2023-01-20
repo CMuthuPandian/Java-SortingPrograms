@@ -38,3 +38,13 @@ public class SelectionSorting {
     }
 
 }
+
+/*
+
+Output:
+
+[5, 8, 1, 10, 0, 3, 2]
+The Sorted Array is:
+[0, 1, 2, 3, 5, 8, 10]
+
+ */
