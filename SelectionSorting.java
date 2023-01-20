@@ -29,7 +29,6 @@ public class SelectionSorting {
         arr[first] = arr[second];
         arr[second] = temp;
     }
-
 }
 
 /*
