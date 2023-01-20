@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
 public class SelectionSorting {
-
     public static void main(String[] args) {
         int[] arr = new int[]{5, 8, 1, 10, 0, 3, 2};
         System.out.println(Arrays.toString(arr));
