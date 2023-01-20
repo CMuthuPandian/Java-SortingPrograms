@@ -22,7 +22,6 @@ public class SelectionSorting {
                 max = j;
             }
         }
-
         return max;
     }
 
