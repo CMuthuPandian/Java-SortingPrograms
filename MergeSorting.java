@@ -43,7 +43,6 @@ public class MergeSorting {
             ++j;
             ++k;
         }
-
         return mix;
     }
 
