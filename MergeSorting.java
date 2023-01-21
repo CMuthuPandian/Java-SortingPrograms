@@ -19,7 +19,6 @@ public class MergeSorting {
             return merge(left, right);
         }
     }
-
     static int[] merge(int[] first, int[] second) {
         int[] mix = new int[first.length + second.length];
         int i = 0;
