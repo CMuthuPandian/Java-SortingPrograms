@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
 public class MergeSorting {
-
     public static void main(String[] args) {
         int[] arr = new int[]{7, 9, 1, 5, 2, -1, 6, 3, 0};
         System.out.println(Arrays.toString(arr));
