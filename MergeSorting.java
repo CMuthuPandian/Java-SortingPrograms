@@ -33,7 +33,6 @@ public class MergeSorting {
                 ++j;
             }
         }
-
         while(i < first.length) {
             mix[k] = first[i];
             ++i;
