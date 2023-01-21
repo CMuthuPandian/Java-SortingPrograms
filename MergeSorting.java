@@ -23,7 +23,6 @@ public class MergeSorting {
         int[] mix = new int[first.length + second.length];
         int i = 0;
         int j = 0;
-
         int k;
         for(k = 0; i < first.length && j < second.length; ++k) {
             if (first[i] < second[j]) {
