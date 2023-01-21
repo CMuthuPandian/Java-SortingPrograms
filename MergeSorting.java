@@ -53,3 +53,13 @@ public class MergeSorting {
     }
 
 }
+
+/*
+
+Output:
+
+[7, 9, 1, 5, 2, -1, 6, 3, 0]
+The Sorted Array is:
+[-1, 0, 1, 2, 3, 5, 6, 7, 9]
+
+ */
