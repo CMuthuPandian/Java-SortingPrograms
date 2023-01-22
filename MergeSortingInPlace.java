@@ -36,7 +36,6 @@ public class MergeSortingInPlace {
             ++i;
             ++k;
         }
-
         while(j < e) {
             mix[k] = arr[j];
             ++j;
