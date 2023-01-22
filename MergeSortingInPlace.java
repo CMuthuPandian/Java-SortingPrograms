@@ -20,7 +20,6 @@ public class MergeSortingInPlace {
         int[] mix = new int[e - s];
         int i = s;
         int j = m;
-
         int k;
         for(k = 0; i < m && j < e; ++k) {
             if (arr[i] < arr[j]) {
