@@ -54,3 +54,13 @@ public class MergeSortingInPlace {
     }
 
 }
+
+/*
+
+Output:
+
+[7, 2, 4, 0, 9, -1, 8]
+The Sorted Array is:
+[-1, 0, 2, 4, 7, 8, 9]
+
+ */
