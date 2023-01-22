@@ -8,7 +8,6 @@ public class MergeSortingInPlace {
         mergeSort(arr, 0, arr.length);
         System.out.println(Arrays.toString(arr));
     }
-
     static void mergeSort(int[] arr, int s, int e) {
         if (e - s != 1) {
             int mid = (s + e) / 2;
