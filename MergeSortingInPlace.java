@@ -16,7 +16,6 @@ public class MergeSortingInPlace {
             finalMergeSort(arr, s, mid, e);
         }
     }
-
     static void finalMergeSort(int[] arr, int s, int m, int e) {
         int[] mix = new int[e - s];
         int i = s;
