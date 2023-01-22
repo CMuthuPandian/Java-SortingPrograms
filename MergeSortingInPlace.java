@@ -25,12 +25,12 @@ public class MergeSortingInPlace {
             if (arr[i] < arr[j]) {
                 mix[k] = arr[i];
                 ++i;
-            } else {
+            } 
+            else {
                 mix[k] = arr[j];
                 ++j;
             }
         }
-
         while(i < m) {
             mix[k] = arr[i];
             ++i;
